@@ -1,0 +1,119 @@
+﻿Installing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Uninstalling assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Uninstalling assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Uninstalling assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Uninstalling assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Uninstalling assembly 'D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.InstallLog
+   assemblypath = D:\School\HKIINam3\MaDoc\LAB1\18520084Service3\18520084Service3\bin\Debug\18520084Service3.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.

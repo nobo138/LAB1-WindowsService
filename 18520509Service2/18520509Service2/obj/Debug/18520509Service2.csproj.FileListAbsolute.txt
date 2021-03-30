@@ -1,0 +1,8 @@
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\bin\Debug\18520509Service2.exe.config
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\bin\Debug\18520509Service2.exe
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\bin\Debug\18520509Service2.pdb
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\obj\Debug\_18520509Service2.ProjectInstaller.resources
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\obj\Debug\18520509Service2.csproj.GenerateResource.cache
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\obj\Debug\18520509Service2.csproj.CoreCompileInputs.cache
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\obj\Debug\18520509Service2.exe
+D:\School\HKIINam3\MaDoc\LAB1\18520509Service2\18520509Service2\obj\Debug\18520509Service2.pdb
